@@ -5,7 +5,7 @@ The terminal command line uses a text interface that gives direct commands to yo
 
 The following command CD (change directory) is used to move to the Coded folder:
 
-![png](images/terminal.png)
+![png](https://github.com/JoinCODED/Data-Science-cheat-sheets/blob/main/images/terminal.png)
 
 # Cheat Sheet
 
