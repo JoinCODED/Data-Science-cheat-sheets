@@ -4,7 +4,7 @@ Data science enables the transformation of datasets into business assets. This i
 
 The following diagram represents how data science takes a problem and a dataset and uses machine learning to output a trained model that discovers future insights:
 
-![png](images/ds_intro.png "data science")
+![png](https://github.com/JoinCODED/Data-Science-cheat-sheets/blob/main/images/ds_intro.png "data science")
 
 
 # Data Science Terminology
